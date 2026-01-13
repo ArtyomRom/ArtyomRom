@@ -30,10 +30,10 @@
   <a href="https://www.linkedin.com/in/твой-профиль" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/@Art99l" target="_blank">
+  <a href="https://t.me/Art99l" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram" />
   </a>
-  <a href="zik21b@gmail.com" target="_blank">
+  <a href="mailto:zik21b@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40" height="40" alt="Email" />
   </a>
 </p>
