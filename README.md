@@ -25,15 +25,6 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-## Примеры артефактов
-- 📌 **Checklists**
-  - 🔹 [Password Recovery](Тест-кейс.xlsx)
- 
-- 📌 **Test Cases**
-  - 🔹 [Task Creation – Positive  / Negative](Чек лист.xlsx)
- 
-
-
 ## Социальные сети и почта
 <p align="center">
   <a href="https://www.linkedin.com/in/твой-профиль" target="_blank">
