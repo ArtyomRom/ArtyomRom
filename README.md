@@ -34,6 +34,8 @@
   - 🔹 [Task Creation – Positive / Negative](Тест-кейс.xlsx)
 
 
+- 📌 **Resume**
+  - 🔹 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](Резюме%20тестировщика.pdf)
 
 ## Социальные сети и почта
 <p align="center">
