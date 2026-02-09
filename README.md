@@ -37,6 +37,11 @@
 - 📌 **Resume**
   - 🔹 [![Resume](https://img.shields.io/badge/Resume-PDF-blue)](Резюме%20тестировщика.pdf)
 
+- 📌 **Автоматический e2e-тест**
+
+- [E2E тест покупки на saucedemo.com](https://github.com/ArtyomRom/qa-selenium.git)  
+  Автоматический тест с Python + Selenium, логированием и проверкой всех шагов покупки.
+
 ## Социальные сети и почта
 <p align="center">
   <a href="https://t.me/Art99l" target="_blank">
